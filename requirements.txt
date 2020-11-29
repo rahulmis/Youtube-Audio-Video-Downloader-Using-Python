@@ -1,0 +1,5 @@
+Package    Version
+---------- -------
+pafy       0.5.5
+pip        20.2.4
+setuptools 41.2.0
